@@ -1,0 +1,16 @@
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\bin\Debug\netcoreapp3.1\Service.exe
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\rober\Desktop\PB Slut opgave\PB-Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache
